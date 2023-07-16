@@ -1,0 +1,80 @@
+.sneakers-container {
+    margin-top: 1cm;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 2cm;
+}
+
+.text-q1 {
+  text-decoration: underline;
+  text-decoration-thickness: 2px; 
+}
+
+.sorry{
+  margin-top: 3cm;
+  margin-left: 3cm;
+}
+.sneakers-right{
+  margin-bottom: 2cm;
+}
+
+.sneakers-right-display {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0;
+    
+}
+  
+.sneakers-right-display .product {
+    width: 100%;
+    max-width: 50px;
+}
+
+
+
+.faceted-search-container .facet {
+    margin-bottom: 1rem;
+    margin-top: 2.7cm;
+    margin-left: 5cm;
+  }
+  
+  .faceted-search-container .facet h3 {
+    margin-bottom: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .faceted-search-container .facet div {
+    display: flex;
+    align-items: center;
+  }
+  
+  .faceted-search-container .facet div label {
+    margin-right: 0.5rem; 
+
+  }
+  
+  
+
+
+
+
+
+
+
+.columns-container {
+    display: flex;
+  }
+  
+  .sneakers-left {
+    flex: 1;
+  }
+  
+  .sneakers-right {
+    flex: 2;
+    margin-right: 2cm;
+  }
+  
+  

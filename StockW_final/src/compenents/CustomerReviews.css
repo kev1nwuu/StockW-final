@@ -1,0 +1,125 @@
+.customerReviews {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+  }
+  
+  .totalRatings {
+    width: 30%;
+    margin: 2cm;
+  }
+  
+  .customerComments {
+    width: 65%;
+    margin-right: 3cm;
+  
+  }
+  
+  .review {
+    margin-bottom: 20px;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+  }
+  
+  .reviewHeader {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .reviewerName {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .ratingStars {
+    color: #f8ce0b;
+  }
+  
+  .reviewSize {
+    margin-bottom: 5px;
+  }
+  
+  .addReview {
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+  }
+  
+  .addReview h3 {
+    margin-bottom: 10px;
+
+  }
+  
+  .addReview form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .addReview form div {
+    margin-bottom: 10px;
+  }
+  
+  .addReview label {
+    font-weight: bold;
+  }
+  
+  .addReview textarea {
+    height: 100px;
+  }
+  
+  .addReview button {
+    background-color: #ffffff;
+    color: #000;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    margin-left: 5cm;
+    margin-right: 5cm;
+    margin-bottom: 10px;
+  }
+
+
+  .addReview form div {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  
+  .addReview label {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .addReview textarea,
+  .addReview input[type="text"],
+  .addReview select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+  }
+  
+  .addReview textarea {
+    height: 100px;
+  }
+
+  label {
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+}
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  

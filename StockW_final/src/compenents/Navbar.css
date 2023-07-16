@@ -1,0 +1,120 @@
+.navbar-logo-left {
+  width: 100%;
+  background-color: #000000;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 17px;
+  display: flex;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999; /* Adjust the z-index as needed */
+  border-bottom: 1px solid #bbbbbb;
+}
+  .navbarcontainer {
+    width: 100%;
+    max-width: 1366px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  
+  .navbar-content {
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+  }
+  
+  .navbar-brand {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    flex: 0 auto;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .logo {
+    width: 178px;
+    height: 40px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  
+  .navbar-menu {
+    grid-column-gap: 29px;
+    grid-row-gap: 29px;
+    flex: 0 auto;
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+
+  }
+
+
+  
+  .navbar-link {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    flex: 0 auto;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 24px 12px;
+    display: flex;
+    margin-right: 10px;
+  }
+
+  .navbar-link {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Preserve the original link color */
+  }
+
+  .navbar-button {
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Preserve the original link color */
+  }
+
+  .navs-link:hover{
+    text-decoration: underline; /* Add underline on hover */
+    text-decoration-color: rgb(255, 255, 255); /* Change the underline color */
+  }
+  
+  .text {
+    color: #ededed;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 150%;
+  }
+  
+  .navbar-button {
+    grid-column-gap: 8px;
+    grid-row-gap: 8px;
+    background-color: #818181;
+    flex: 0 auto;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 20px;
+    display: flex;
+    margin-right: 15px;
+    border-radius: 5px;
+  }
+  
+  .login {
+    color: #ededed;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 140%;
+  }
+
+  .navbar-button:hover{
+    background-color: rgb(72, 72, 72);
+  }
+
+  

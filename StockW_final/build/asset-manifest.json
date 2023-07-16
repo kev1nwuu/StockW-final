@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa378280.css",
+    "main.js": "/static/js/main.52fe8d54.js",
+    "static/media/1.jpg": "/static/media/1.02b06886f34e09c93e58.jpg",
+    "static/media/19.jpg": "/static/media/19.8e47360fb8a28e41c441.jpg",
+    "static/media/image1.png": "/static/media/image1.551b12e12fa97d1af6d3.png",
+    "static/media/image2.webp": "/static/media/image2.6dfee8363ebca4e29080.webp",
+    "static/media/Air-Jordan-1_s-Under-200_SecondaryA_EN.webp": "/static/media/Air-Jordan-1_s-Under-200_SecondaryA_EN.d519d5eafe8fb7bf3284.webp",
+    "static/media/StockXchange-Paris-26-1200x800.avif": "/static/media/StockXchange-Paris-26-1200x800.c556fc222a3982785b30.avif",
+    "static/media/4.avif": "/static/media/4.40d3801a04153d0bad1a.avif",
+    "static/media/1.avif": "/static/media/1.5fd77104672a8eaa7ab7.avif",
+    "static/media/site-Greg-1-800x800.avif": "/static/media/site-Greg-1-800x800.925dccee95a298fd0878.avif",
+    "static/media/site-Laura-2-800x800.avif": "/static/media/site-Laura-2-800x800.06a1816d30aec7d539f7.avif",
+    "static/media/nikemay.webp": "/static/media/nikemay.80cea3e05ac4f42b1229.webp",
+    "static/media/adidasmay.webp": "/static/media/adidasmay.512211ca7f9dad52a37f.webp",
+    "static/media/louismay.webp": "/static/media/louismay.a1d3d9165c5b49834f6c.webp",
+    "static/media/jordanmay2.webp": "/static/media/jordanmay2.9200bd9a63e96da67df2.webp",
+    "static/media/3.avif": "/static/media/3.1c7dc0f63808e095cc86.avif",
+    "static/media/5.avif": "/static/media/5.94a81972e50fe985e4fe.avif",
+    "static/media/6.avif": "/static/media/6.abe5268588d2ec024733.avif",
+    "static/media/9.avif": "/static/media/9.17c38fe6bf350d5eb5c4.avif",
+    "static/media/10.avif": "/static/media/10.03e6d901e9aa2be91b0f.avif",
+    "static/media/2.avif": "/static/media/2.d5971eac651ed7e51218.avif",
+    "static/media/7.avif": "/static/media/7.490c6ad0bb22315be87a.avif",
+    "static/media/8.avif": "/static/media/8.f84c1880e6b6a0ce3224.avif",
+    "index.html": "/index.html",
+    "main.aa378280.css.map": "/static/css/main.aa378280.css.map",
+    "main.52fe8d54.js.map": "/static/js/main.52fe8d54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa378280.css",
+    "static/js/main.52fe8d54.js"
+  ]
+}

@@ -1,0 +1,40 @@
+.container-QA {
+  display: flex;
+  border: 2px solid rgb(0, 0, 0); /* Add a light border */
+  margin-bottom: 2cm;
+  margin-top: 5cm;
+  margin-left: 2cm;
+  margin-right: 2cm;
+}
+
+
+
+.left {
+  flex: 1;
+  border-right: 1px solid #ccc;
+  padding-right: 10px;
+  margin-bottom: 10px;
+}
+
+.right {
+  flex: 1;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.answer {
+  margin-top: 27px;
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+
+}
+
+input[type='text'],
+input[type='date'] {
+  width: 100%;
+}

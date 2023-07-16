@@ -1,0 +1,138 @@
+/*footer*/
+
+.footer {
+    width: 100%;
+    height: 250px;
+
+    background-color: #000000;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 66px;
+    display: flex;
+
+  }
+  
+  .columns {
+    width: 100%;
+    max-width: 960px;
+    justify-content: space-between;
+    align-items: flex-start;
+    display: flex;
+    margin-top: -0.7cm;
+  }
+  
+  .column-2 {
+    width: 100%;
+    max-width: 320px;
+    grid-column-gap: 24px;
+    grid-row-gap: 24px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .logo-wrapper {
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    flex: 0 auto;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-top: 16px;
+    display: flex;
+  }
+  
+  .logo-2 {
+    width: 141px;
+    height: 36px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  
+  .small-columns {
+    width: 100%;
+    max-width: 600px;
+    grid-column-gap: 32px;
+    grid-row-gap: 32px;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding-top: 16px;
+    display: flex;
+  }
+  
+  .column-3 {
+    width: 100%;
+    grid-column-gap: 24px;
+    grid-row-gap: 24px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+    
+  }
+
+  
+  .content {
+    width: 100%;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .text-2 {
+    color: #ededed;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 150%;
+  }
+  
+  .footer-links {
+    width: 100%;
+    grid-column-gap: 8px;
+    grid-row-gap: 8px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .link {
+    color: #a3a3a3;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 150%;
+  }
+  
+  .copyright {
+    font-style: oblique;
+    width: 100%;
+    max-width: 940px;
+    grid-column-gap: 32px;
+    grid-row-gap: 32px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    display: flex;
+    box-shadow: 0 -1px #a3a3a3;
+    margin-top: 0.5cm;
+}
+
+  
+  
+  .text-3 {
+    color: #a3a3a3;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 150%;
+  }
+
